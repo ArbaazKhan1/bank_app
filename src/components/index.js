@@ -10,6 +10,7 @@ import Hero from './Hero';
 import Navbar from './Navbar';
 import Stats from './Stats';
 import Testimonials from './Testimonials';
+import CTA from './CTA';
 
 export {
     Billing,
@@ -23,5 +24,6 @@ export {
     Hero,
     Navbar,
     Stats,
-    Testimonials
+    Testimonials,
+    CTA
 };
