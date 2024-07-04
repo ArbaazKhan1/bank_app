@@ -3,7 +3,7 @@ import styles from './style';
 import {Billing, Business, Button, CardDeal, Clients, CTA, FeedbackCard, Footer, GetStarted, Hero, Navbar, Stats, Testimonials} from './components';
 
 const App = () => (
-  <div className='bg-black w-full overflow-hidden'>
+  <div className='bg-primary w-full overflow-hidden'>
     <div className={`${styles.paddingX} ${styles.flexCenter}`}>
       <div className={`${styles.boxWidth}`}>
         <Navbar />
