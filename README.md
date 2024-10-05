@@ -1,6 +1,6 @@
 # React + Vite
 
-To see code in action checkout: [https://gpt3-arbaaz.vercel.app/](https://vercel.com/arbaazkhan/bank-app)
+To see code in action checkout: https://bank-app-six-nu.vercel.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
